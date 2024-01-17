@@ -4,7 +4,7 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 [![The Whole Fruit Manifesto](https://img.shields.io/badge/writing%20standard-the%20whole%20fruit-brightgreen)](https://github.com/the-whole-fruit/manifesto)
 
-This package provides a theme for the [Backpack for Laravel](https://backpackforlaravel.com/) administration panel, that uses TailwindCSS, specifically [Ready Made UI](https://readymadeui.com/) and implicitly Tailwind CSS v3. MADmin is easy to customise with well commented and documented CSS files, which can be easily edited if you don't like them. The MADmin Settings package for backpack allows easy customisation of MADmin all from your Backpack admin panel.
+This package provides a theme for the [Backpack for Laravel](https://backpackforlaravel.com/) administration panel, that uses Tailwind CSS v3. MADmin is easy to customise with well commented and documented CSS files, which can be easily edited if you don't like them. The MADmin Settings package for backpack allows easy customisation of MADmin all from your Backpack admin panel. A frontend edition of the MADmin theme is coming and will integrate with Laravel Jetstream.
 
 ## Screenshots
 
