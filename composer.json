@@ -1,8 +1,6 @@
 {
     "name": "madtechservices/theme-madmin",
     "description": "MADmin - Tailwind based UI for Backpack v6.",
-    "version": "0.0.18",
-    "type": "laravel-backpack-addon",
     "license": "MIT",
     "authors": [
         {
@@ -29,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Backpack\\ThemeTabler\\": "src/"
+            "Madtechservices\\ThemeMadmin\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Backpack\\ThemeTabler\\Tests\\": "tests"
+            "Madtechservices\\ThemeMadmin\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -46,7 +44,7 @@
         },
         "laravel": {
             "providers": [
-                "Backpack\\ThemeMadmin\\AddonServiceProvider"
+                "Madtechservices\\ThemeMadmin\\AddonServiceProvider"
             ]
         }
     }

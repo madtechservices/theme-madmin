@@ -22,7 +22,7 @@ Not currently available.
 **Step 1.** Install via Composer
 
 ``` bash
-composer require madtechservices\theme-madmin
+composer require madtechservices/theme-madmin
 ```
 
 **Step 2.** Go to `config/backpack/ui.php` and change your view namespace:
