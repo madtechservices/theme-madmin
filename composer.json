@@ -40,7 +40,7 @@
     },
     "laravel": {
         "providers": [
-            "Madtechservices\\ThemeMadmin\\AddonServiceProvider"
+            "Madtechservices\\ThemeMadmin\\MadminServiceProvider"
         ]
     }
 }
