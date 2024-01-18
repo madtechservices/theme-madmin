@@ -37,5 +37,10 @@
     },
     "scripts": {
         "test": "vendor/bin/phpunit --testdox"
+    },
+    "laravel": {
+        "providers": [
+            "Madtechservices\\ThemeMadmin\\AddonServiceProvider"
+        ]
     }
 }
