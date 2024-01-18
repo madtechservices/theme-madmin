@@ -1,6 +1,8 @@
 {
     "name": "madtechservices/theme-madmin",
     "description": "MADmin - Tailwind based UI for Backpack v6.",
+    "version": "0.0.18",
+    "type": "laravel-backpack-addon",
     "license": "MIT",
     "authors": [
         {
